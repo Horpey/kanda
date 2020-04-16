@@ -1,0 +1,809 @@
+
+
+.content main {
+    width: 100vw;
+}
+.content main header .notifications .user-group img{
+    margin: 0px;
+}
+
+.mb-0{
+    margin-bottom: 0px!important;
+}
+
+.kanda-nav{
+    top: 0;
+    left: 0;
+    margin-top: 0px;
+    position: relative;
+}
+
+.content main section{
+    padding: 0px!important;
+}
+
+.content main header .notifications{
+    width: 100%;
+    display: inline-block;
+    padding-top: 7px;
+}
+
+.mv-right{
+    float: right;
+}
+
+.kanda-m-head{
+    padding: 20px 0px 0px 0px!important;
+}
+
+.content main header .notifications .user-group .user--details{
+    display: inline-block
+}
+
+.content main header .notifications .user-group .user--details p{
+    text-align: left;
+}
+
+.content main header .notifications .user-group img {
+    margin: 3px;
+}
+.kanda-breadcrumb{
+    background: #005cfd38;
+    padding: 13px 0px 0px!important;
+}
+.breadcrumbnn {
+    font-size: 14px;
+    color: hsla(0, 0%, 0%, 0.7);
+}
+
+.breadcrumbnn:before{
+    font-size: 14px;
+    margin: 0 10px 0px 6px;
+}
+
+nav ul a{
+    padding: 0 30px;
+    border-right: 1px dashed #ffffff30;
+}
+
+.kanda-options{
+    text-align: right;
+}
+
+.kanda-options p{
+    display: inline-block;
+    padding: 0px 12px;
+}
+
+.btn-card, .btn-card:hover{
+    background: white;
+    color: #005cfd;
+    padding: 0px 6px;
+    font-size: 9px;
+    height: 22px;
+    line-height: 2.5;
+}
+
+.content main .cards #cards-carousel .carousel-item .cont h5{
+    margin-bottom: 0px;
+}
+
+.content main .cards #cards-carousel .carousel-item {
+    width: 100%;
+}
+
+.chart canvas{
+    width: 100%!important;
+}
+
+.content main .offers table tbody tr td a.btnn{
+    color: white;
+}
+
+.content main .offers table tbody tr td a.btnn:hover{
+    text-decoration: none;
+    background: #0440ab;
+}
+
+.content main .graph .top .stats .nb span {
+    margin-right: 0px;
+}
+
+.content main .offers table tbody tr td {
+    padding: 10px 50px;
+}
+
+.content main .offers table thead tr td {
+    padding: 12px 50px 12px;
+}
+
+.d-inlinee{
+    display: inline-block;
+}
+
+.kanda-switch{
+    margin: 0px;
+}
+
+.mt-nil{
+    margin-top: 0px;
+}
+
+.content main .cards #cards-carousel .carousel-item .cont {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    /* display: -webkit-box; */
+    display: block;
+    /* display: flex; */
+    /* -webkit-box-orient: vertical; */
+    /* -webkit-box-direction: normal; */
+    -ms-flex-direction: column;
+    /* flex-direction: column; */
+    /* -webkit-box-pack: justify; */
+    -ms-flex-pack: justify;
+    /* justify-content: space-between; */
+    /* -webkit-box-align: start; */
+    -ms-flex-align: start;
+    /* align-items: flex-start; */
+}
+
+.moreOption{
+    float: right;
+    color: white;
+}
+
+.dropdown-content li>a.cardDropdown{
+    font-size: 12px;
+    color: #0062f9;
+    display: block;
+    line-height: 22px;
+    padding: 6px 16px;
+}
+
+.content main .cards #cards-carousel .carousel-item .cont h6{
+    margin-bottom: 0px;
+}
+
+.asAt{
+    font-size: 8px!important;
+}
+.content main .currencies ul li{
+    box-shadow: 0 0 22.0276px rgba(37, 37, 47, 0.1);
+    -webkit-box-shadow: 0 0 22.0276px rgba(37, 37, 47, 0.1);
+}
+
+.kanda-logo{
+    width: 40px!important;
+    margin-top: 10px;
+}
+
+.currentp{
+    display: inline-block;
+    border-right: 1px solid #e2e2e2;
+    padding: 0px 11px 0px 0px;
+    margin-bottom: 15px;
+}
+
+.sellingp{
+    display: inline-block;
+    padding: 0px 11px 0px 0px;
+    margin-bottom: 15px;
+}
+
+.sellingp p{
+    margin: 0px;
+    font-size: 12px;
+}
+
+.main{
+    padding-bottom: 100px;
+}
+
+.sellingp .smalll{
+    font-size: 9px;
+    color: darkgray;
+}
+
+.text-righttt{
+    text-align: right;
+}
+
+.unitsell{
+    margin: 0px;
+    font-size: 16px!important;
+    color: #005cfd;
+}
+
+.currentp p{
+    margin: 0px;
+    font-size: 12px;
+}
+
+.currentp p.smalll{
+    font-size: 9px;
+    color: darkgray;
+}
+
+.incree{
+    display: inline-block;
+}
+
+.incree i{
+    color: #40E475;
+    font-size: 18px;
+}
+
+.incree span{
+    margin-top: 0px;
+}
+
+.footer-copyright a{
+    padding: 3px 25px;
+    font-size: 12px;
+}
+
+.page-footer {
+    margin-top: 80px;
+    padding-top: 0px;
+}
+
+.content main .cards h3 {
+    font-size: 15px;
+    letter-spacing: .5px;
+    color: #a5a5a5!important;
+    font-weight: 100;
+    border: 0px;
+}
+
+.linkedAccount{
+    text-align: center;
+    padding: 30px 0px;
+    /* border-top: 1px solid gainsboro; */
+    /* margin: 15px 0px; */
+}
+
+
+.banksLinked{
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(90deg,#012f8e,#005cfd);
+    padding: 12px 12px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0px 4px 12px #0053fd42;
+}
+
+.linkedIcon{
+    position: absolute;
+    transform: rotate(-13deg);
+    left: -14px;
+    opacity: 0.4;
+    width: 60px;
+    bottom: 12px;
+}
+
+.bank-number{
+    color: white!important;
+    font-size: 20px!important;
+    letter-spacing: 7px!important;
+}
+
+.edit-bank{
+    border-radius: 33px;
+    height: 30px;
+    padding: 1px 8px;
+    color: white;
+    line-height: 2.3;
+    margin-top: 10px;
+}
+
+.bank-type{
+    background: white;
+    display: inline-block;
+    padding: 4px 12px;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+.edit-bank i{
+    font-size: 14px;
+    padding-top: 0;
+    color: #0058f4;
+    line-height: 0;
+}
+
+@media only screen and (max-width: 992px){
+    table.responsive-table {
+        width: 85vw;
+    }
+}
+
+/* Media Query */
+
+@media only screen and (max-width: 640px){
+    .card-detailss {
+        padding: 13px 6px 0px;
+    }
+}
+
+
+nav ul a.active{
+    background: #00000014;
+}
+
+
+/* WALLET STYLES */
+.content main .wallets .wallet .wallet--action button{
+    margin: 7px 0 12px;
+}
+
+.content main .wallets .wallet .wallet--action{
+    min-height: 280px;
+}
+
+.content main .wallets .wallet .wallet--card .wallet--card-view .cont h5{
+    margin: 0px;
+}
+
+.content main .wallets .wallet .wallet--card .wallet--card-view .cont h6{
+    margin-bottom: 0px;
+}
+.wallet-cards{
+    padding: 14px;
+}
+
+.wallet-action{
+    padding: 12px 0px;
+    /* border-top: 1px solid gainsboro; */
+    text-align: center
+}
+
+.wallet-header{
+    color: #a5a5a5!important;
+    font-weight: 100!important;
+    font-size: 15px!important;
+    border-bottom: 1px solid gainsboro;
+    display: block;
+    padding: 6px 0px 13px;
+}
+
+.content main .wallet-cards table tbody tr td {
+    padding: 10px 22px;
+    text-align: left;
+    text-transform: none;
+}
+
+.card-dropdown{
+    min-height: 35px!important;
+    border-bottom: 1px solid #2768ce2e;
+}
+
+.content main .wallet-cards table thead tr td{
+    padding: 10px 22px;
+}
+
+.black-text{
+    color: black!important;
+}
+
+.availValue{
+    font-size: 24px!important;
+}
+.availAccount{
+    background: #005cfd;
+    display: inline-block;
+    padding: 4px 11px;
+    color: white!important;
+    border-radius: 3px;
+}
+
+.card-pad{
+    padding: 12px;
+}
+
+
+/* INBOX STYLES */
+.content main .inbox{
+    margin-top: 35px;
+}
+.inbox--list-item{
+    padding: 7px 0px!important;
+    margin-bottom: 6px!important;
+}
+.content main .inbox .inbox--list .inbox--list-item .inbox--list-item-content .s{
+    margin-top: 5px!important;
+}
+.content main .inbox .inbox--list .inbox--list-item .inbox--list-item-content span.a{
+    color: darkgray;
+}
+
+.content main .inbox .inbox--list .inbox--list-item{
+    width: 97%;
+}
+
+.text-limiter{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+}
+
+.inb,.active a{
+    color: white;
+}
+.sendReply{
+    border: 1px solid gainsboro;
+    padding: 4px 0px;
+}
+.sendReply input{
+    border: 0px!important;
+    margin-left: 10px!important;
+}
+
+.sendReply a{
+    background: #005cfd;
+    padding: 12px 15px;
+    color: white;
+    border-radius: 33px;
+}
+
+.send-bn{
+    padding-top: 30px!important;
+}
+
+.sendReply a span{
+    font-size: 14px;
+}
+
+.text-whitee{
+    color: white;
+}
+
+.text-grayy{
+    color: #8f8bab;
+}
+
+.changed{
+    font-size: 18px;
+    margin: 0px;
+}
+
+.content main .graph .top .stats .lb span.d{
+    font-size: 13.2279px;
+    color: #8f8bab;
+}
+.full-width{
+    width: 100%;
+}
+
+.compose-info{
+    font-size: 13px;
+    text-align: center;
+    color: darkgrey;
+}
+
+.nb p{
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.content main .graph .top .stats{
+    padding-bottom: 0px;
+}
+
+
+.content main .graph .top .stats .nb span{
+    font-size: 10px;
+}
+.no-margin{
+    margin: 0px!important;
+}
+
+.lb-trans{
+    text-align: right;
+}
+
+.amount{
+    margin-top: 25px;
+}
+
+.card-sign{
+    font-size: 12px;
+}
+
+.summary{
+    border: 1px solid #e2e2e2;
+    border-radius: 6px;
+    padding: 9px 1px;
+}
+
+.summa-f{
+    margin-bottom: 0px;
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.order-details{
+    margin-bottom: 9px;
+}
+
+.order-details p{
+    text-align: center;
+    font-size: 11px;
+    color: white;
+    background: #0b67ff;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 1px 10px;
+    border-radius: 2px;
+    margin-left: -2px;
+}
+
+.elevated{
+    box-shadow: 0px 0px 5px 2px #00000010!important;
+    -webkit-box-shadow: 0px 0px 5px 2px #00000010!important;
+}
+
+.card-elevate{
+    margin-bottom: 20px;
+}
+
+.card-detailss{
+    padding: 13px 17px 0px;
+}
+
+.graph-elevate{
+    padding: 15px;
+}
+
+.content main .graph .chart{
+    margin-top: 0px;
+}
+
+.content main .offers table thead tr td{
+    font-size: 14px;
+}
+
+.main-contentt{
+    margin-top: 10px;
+}
+
+.content main .offer-options ul{
+    margin-top: 20px;
+}
+.content main .offer-options ul li{
+    font-size: 13px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    border: 2px solid #0062f9;
+    color: #0062f9;
+}
+
+.marketToggle{
+    display: none;
+}
+
+.marketToggle div{
+    padding: 20px;
+    margin: 20px 0px;
+    text-align: center;
+    min-height: 250px;
+}
+
+.modal{
+    max-height: 80%;
+}
+
+.myOfferbtn{
+    cursor: pointer;
+}
+
+.no-order{
+    margin-top: 60px;
+}
+
+.content main .cards #cards-carousel .carousel-item{
+    padding: 0px;
+}
+
+.main{
+    background: #f4f7fa;
+}
+
+.elevated{
+    background-color: white;
+}
+
+.content main header, .content main .currencies ul li{
+    background: white;
+}
+
+.latest-trade{
+    display: block;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.latest-trade p{
+    color: black;
+    margin-top: 8px;
+}
+
+.latest-trade .smalll{
+    margin-top: 0px;
+}
+
+.purchase-cur{
+    /* background: #f6f6f6; */
+    padding: 15px;
+    margin: 0px 0px;
+}
+
+.row-volume{
+    padding-top: 0px;
+    background: #f6f6f6;
+    border-radius: 3px;
+    border: 1px solid #f6f6f6!important;
+}
+
+.input-modal{
+    border: 0px solid black!important;
+    background: #f6f6f6!important;
+}
+
+#cvv{
+    max-width: 370px;
+}
+
+.btn-centerr{
+    text-align: center;
+}
+
+
+/* Inbox */
+.content main .inbox .inbox--list .inbox-outbox{
+    width: 90%;
+}
+
+.links-blue{
+    color: #005cfd;
+}
+
+.compose-input{
+    background: white!important;
+    border-color: #cacaca!important;
+}
+.compose-btn, .compose-btn:hover{
+    color: #0062f9;
+    background: #f4f7fa;
+    border: 2px solid;
+    padding: 0px 7px;
+    /* height: 42px; */
+    margin-bottom: 5px;
+    border-radius: 34px;
+    height: 53px;
+    padding-left: 16px;
+    line-height: 2.6;
+}
+.compose-btn i{
+    font-size: 18px;
+    padding-right: 9px;
+}
+
+.composeTextarea{
+    padding: 15px;
+    border-radius: 3px;
+    background: white!important;
+    border-color: #cacaca!important;
+    height: 150px!important;
+}
+
+.composeTextarea:focus{
+    outline-width: 0;
+}
+.composebtn{
+    box-sizing: content-box!important;
+    width: auto!important;
+    margin-top: 0px;
+    padding: 0px 36px;
+}
+
+.new-message{
+    background: #005cfd;
+    position: fixed;
+    bottom: 0;
+    right: 30px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    color: white;
+}
+
+.new-message a{
+    font-size: 13px;
+    margin: 0px;
+    color: white;
+    padding: 13px 35px;
+    display: inline-block;
+}
+
+.new-message a i{
+    font-size: 11px;
+    padding-right: 6px;
+}
+
+
+
+/* Account */
+
+.profile-pic{
+    padding: 25px 0px 0px;
+    position: relative;
+    text-align: center;
+}
+
+.profile-pic a{
+    color: #005cfd;
+    background: #ffffff;
+    padding: 8px;
+    position: absolute;
+    border-radius: 36px;
+    bottom: 21px;
+    font-size: 15px;
+}
+
+.profile-pic img{
+    width: 150px;
+    border: 8px solid #0000000d;
+}
+
+.profile-details{
+    padding: 0px 12px 36px;
+    text-align: center;
+}
+
+.profile-details h3{
+    color: black!important;
+    font-size: 17px!important;
+    margin-top: 6px;
+}
+
+.profile-actions{
+    padding: 20px 37px;
+}
+
+.profileedit-btn{
+    margin: 14px;
+}
+.profileedit-btn a{ 
+    font-size: 10px;
+    padding: 1px 10px;
+    line-height: 3;
+    color: #0062f9;
+    height: 32px;
+    background-color: white;
+    border: 1px solid #0062f9;
+    font-weight: bold;
+}
+
+.profile-other-icon{
+    font-size: 12px;
+    margin-right: 7px;
+}
+
+.password-group{
+    margin-bottom: 2rem;
+}
+
+/* .lb-trans{
+    background: #005cfd;
+    padding: 4px 7px;
+    border-radius: 3px;
+}
+
+.content main .graph .top .stats .lb span.l, .content main .graph .top .stats .lb span.d{
+    color: white;
+} */
